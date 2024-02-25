@@ -1,0 +1,24 @@
+.hero {
+  height: 300vh;
+  position: relative;
+
+  h1 {
+    font-size: 120px;
+    position: fixed;
+    width: 60%;
+    text-align: center;
+    top: 15%;
+    left: 20%;
+  }
+}
+
+.under-hero {
+  height: 200vh;
+
+  h2 {
+    width: 100%;
+    text-align: center;
+    font-size: 50px;
+    opacity: 0;
+  }
+}
